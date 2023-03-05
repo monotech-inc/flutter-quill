@@ -1,5 +1,6 @@
 library flutter_quill;
 
+export 'src/extensions/flutter_quill_extensions.dart';
 export 'src/models/documents/attribute.dart';
 export 'src/models/documents/document.dart';
 export 'src/models/documents/nodes/block.dart';

@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_quill/flutter_quill.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../embed_types.dart';
-import 'image_video_utils.dart';
-
 class ImageButton extends StatelessWidget {
   const ImageButton({
     required this.icon,

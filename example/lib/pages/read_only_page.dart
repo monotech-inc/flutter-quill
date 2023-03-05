@@ -2,7 +2,6 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_quill/extensions.dart';
 import 'package:flutter_quill/flutter_quill.dart' hide Text;
-import 'package:flutter_quill_extensions/flutter_quill_extensions.dart';
 
 import '../universal_ui/universal_ui.dart';
 import '../widgets/demo_scaffold.dart';

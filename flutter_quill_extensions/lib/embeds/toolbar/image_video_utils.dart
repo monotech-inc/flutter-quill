@@ -7,8 +7,6 @@ import 'package:flutter_quill/flutter_quill.dart' hide Text;
 import 'package:flutter_quill/translations.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../embed_types.dart';
-
 class LinkDialog extends StatefulWidget {
   const LinkDialog({this.dialogTheme, this.link, Key? key}) : super(key: key);
 

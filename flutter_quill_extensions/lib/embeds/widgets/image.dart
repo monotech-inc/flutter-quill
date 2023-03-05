@@ -5,8 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_quill/flutter_quill.dart';
 import 'package:photo_view/photo_view.dart';
 
-import '../utils.dart';
-
 const List<String> imageFileExtensions = [
   '.jpeg',
   '.png',
